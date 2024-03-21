@@ -1,0 +1,14 @@
+C:\Users\tilak\Desktop\CSharp\whileStatement\bin\Debug\net8.0\whileStatement.exe
+C:\Users\tilak\Desktop\CSharp\whileStatement\bin\Debug\net8.0\whileStatement.deps.json
+C:\Users\tilak\Desktop\CSharp\whileStatement\bin\Debug\net8.0\whileStatement.runtimeconfig.json
+C:\Users\tilak\Desktop\CSharp\whileStatement\bin\Debug\net8.0\whileStatement.dll
+C:\Users\tilak\Desktop\CSharp\whileStatement\bin\Debug\net8.0\whileStatement.pdb
+C:\Users\tilak\Desktop\CSharp\whileStatement\obj\Debug\net8.0\whileStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\CSharp\whileStatement\obj\Debug\net8.0\whileStatement.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\CSharp\whileStatement\obj\Debug\net8.0\whileStatement.AssemblyInfo.cs
+C:\Users\tilak\Desktop\CSharp\whileStatement\obj\Debug\net8.0\whileStatement.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\CSharp\whileStatement\obj\Debug\net8.0\whileStatement.dll
+C:\Users\tilak\Desktop\CSharp\whileStatement\obj\Debug\net8.0\refint\whileStatement.dll
+C:\Users\tilak\Desktop\CSharp\whileStatement\obj\Debug\net8.0\whileStatement.pdb
+C:\Users\tilak\Desktop\CSharp\whileStatement\obj\Debug\net8.0\whileStatement.genruntimeconfig.cache
+C:\Users\tilak\Desktop\CSharp\whileStatement\obj\Debug\net8.0\ref\whileStatement.dll

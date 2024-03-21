@@ -1,0 +1,14 @@
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\bin\Debug\net8.0\arrayTest.exe
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\bin\Debug\net8.0\arrayTest.deps.json
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\bin\Debug\net8.0\arrayTest.runtimeconfig.json
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\bin\Debug\net8.0\arrayTest.dll
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\bin\Debug\net8.0\arrayTest.pdb
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\obj\Debug\net8.0\arrayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\obj\Debug\net8.0\arrayTest.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\obj\Debug\net8.0\arrayTest.AssemblyInfo.cs
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\obj\Debug\net8.0\arrayTest.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\obj\Debug\net8.0\arrayTest.dll
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\obj\Debug\net8.0\refint\arrayTest.dll
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\obj\Debug\net8.0\arrayTest.pdb
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\obj\Debug\net8.0\arrayTest.genruntimeconfig.cache
+C:\Users\tilak\Desktop\CSharp\array\arrayTest\obj\Debug\net8.0\ref\arrayTest.dll

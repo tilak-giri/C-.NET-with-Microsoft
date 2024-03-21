@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpComments and more", "CsharpComments and more.csproj", "{DECFAC84-5936-4137-AAA9-3083B26C79EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECFAC84-5936-4137-AAA9-3083B26C79EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECFAC84-5936-4137-AAA9-3083B26C79EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECFAC84-5936-4137-AAA9-3083B26C79EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECFAC84-5936-4137-AAA9-3083B26C79EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97159654-FC2C-44FA-AABC-DB4F4AD41F73}
+	EndGlobalSection
+EndGlobal

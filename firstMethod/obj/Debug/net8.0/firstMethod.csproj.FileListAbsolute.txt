@@ -1,0 +1,14 @@
+C:\Users\tilak\Desktop\CSharp\firstMethod\bin\Debug\net8.0\firstMethod.exe
+C:\Users\tilak\Desktop\CSharp\firstMethod\bin\Debug\net8.0\firstMethod.deps.json
+C:\Users\tilak\Desktop\CSharp\firstMethod\bin\Debug\net8.0\firstMethod.runtimeconfig.json
+C:\Users\tilak\Desktop\CSharp\firstMethod\bin\Debug\net8.0\firstMethod.dll
+C:\Users\tilak\Desktop\CSharp\firstMethod\bin\Debug\net8.0\firstMethod.pdb
+C:\Users\tilak\Desktop\CSharp\firstMethod\obj\Debug\net8.0\firstMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\CSharp\firstMethod\obj\Debug\net8.0\firstMethod.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\CSharp\firstMethod\obj\Debug\net8.0\firstMethod.AssemblyInfo.cs
+C:\Users\tilak\Desktop\CSharp\firstMethod\obj\Debug\net8.0\firstMethod.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\CSharp\firstMethod\obj\Debug\net8.0\firstMethod.dll
+C:\Users\tilak\Desktop\CSharp\firstMethod\obj\Debug\net8.0\refint\firstMethod.dll
+C:\Users\tilak\Desktop\CSharp\firstMethod\obj\Debug\net8.0\firstMethod.pdb
+C:\Users\tilak\Desktop\CSharp\firstMethod\obj\Debug\net8.0\firstMethod.genruntimeconfig.cache
+C:\Users\tilak\Desktop\CSharp\firstMethod\obj\Debug\net8.0\ref\firstMethod.dll

@@ -1,0 +1,14 @@
+C:\Users\tilak\Desktop\CSharp\testProject\bin\Debug\net8.0\testProject.exe
+C:\Users\tilak\Desktop\CSharp\testProject\bin\Debug\net8.0\testProject.deps.json
+C:\Users\tilak\Desktop\CSharp\testProject\bin\Debug\net8.0\testProject.runtimeconfig.json
+C:\Users\tilak\Desktop\CSharp\testProject\bin\Debug\net8.0\testProject.dll
+C:\Users\tilak\Desktop\CSharp\testProject\bin\Debug\net8.0\testProject.pdb
+C:\Users\tilak\Desktop\CSharp\testProject\obj\Debug\net8.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\CSharp\testProject\obj\Debug\net8.0\testProject.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\CSharp\testProject\obj\Debug\net8.0\testProject.AssemblyInfo.cs
+C:\Users\tilak\Desktop\CSharp\testProject\obj\Debug\net8.0\testProject.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\CSharp\testProject\obj\Debug\net8.0\testProject.dll
+C:\Users\tilak\Desktop\CSharp\testProject\obj\Debug\net8.0\refint\testProject.dll
+C:\Users\tilak\Desktop\CSharp\testProject\obj\Debug\net8.0\testProject.pdb
+C:\Users\tilak\Desktop\CSharp\testProject\obj\Debug\net8.0\testProject.genruntimeconfig.cache
+C:\Users\tilak\Desktop\CSharp\testProject\obj\Debug\net8.0\ref\testProject.dll

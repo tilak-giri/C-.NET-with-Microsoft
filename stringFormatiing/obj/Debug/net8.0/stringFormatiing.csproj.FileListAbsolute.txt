@@ -1,0 +1,14 @@
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\bin\Debug\net8.0\stringFormatiing.exe
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\bin\Debug\net8.0\stringFormatiing.deps.json
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\bin\Debug\net8.0\stringFormatiing.runtimeconfig.json
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\bin\Debug\net8.0\stringFormatiing.dll
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\bin\Debug\net8.0\stringFormatiing.pdb
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\obj\Debug\net8.0\stringFormatiing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\obj\Debug\net8.0\stringFormatiing.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\obj\Debug\net8.0\stringFormatiing.AssemblyInfo.cs
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\obj\Debug\net8.0\stringFormatiing.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\obj\Debug\net8.0\stringFormatiing.dll
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\obj\Debug\net8.0\refint\stringFormatiing.dll
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\obj\Debug\net8.0\stringFormatiing.pdb
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\obj\Debug\net8.0\stringFormatiing.genruntimeconfig.cache
+C:\Users\tilak\Desktop\CSharp\stringFormatiing\obj\Debug\net8.0\ref\stringFormatiing.dll

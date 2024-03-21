@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SPd6QeX+bIkM81uSkTH7f+FZ3u8nH9te5u8NxDs04MgYkYs0Jyf7xh921Hye8rnvvSXLj8uHYFwWKeDqG07H3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tilak\\Desktop\\CSharp\\Guided-project-Work-with-variable-data-in-CSharp-main\\Guided-project-Work-with-variable-data-in-CSharp-main\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

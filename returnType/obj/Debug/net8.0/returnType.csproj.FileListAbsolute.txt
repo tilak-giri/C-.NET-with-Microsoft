@@ -1,0 +1,14 @@
+C:\Users\tilak\Desktop\CSharp\returnType\bin\Debug\net8.0\returnType.exe
+C:\Users\tilak\Desktop\CSharp\returnType\bin\Debug\net8.0\returnType.deps.json
+C:\Users\tilak\Desktop\CSharp\returnType\bin\Debug\net8.0\returnType.runtimeconfig.json
+C:\Users\tilak\Desktop\CSharp\returnType\bin\Debug\net8.0\returnType.dll
+C:\Users\tilak\Desktop\CSharp\returnType\bin\Debug\net8.0\returnType.pdb
+C:\Users\tilak\Desktop\CSharp\returnType\obj\Debug\net8.0\returnType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\CSharp\returnType\obj\Debug\net8.0\returnType.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\CSharp\returnType\obj\Debug\net8.0\returnType.AssemblyInfo.cs
+C:\Users\tilak\Desktop\CSharp\returnType\obj\Debug\net8.0\returnType.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\CSharp\returnType\obj\Debug\net8.0\returnType.dll
+C:\Users\tilak\Desktop\CSharp\returnType\obj\Debug\net8.0\refint\returnType.dll
+C:\Users\tilak\Desktop\CSharp\returnType\obj\Debug\net8.0\returnType.pdb
+C:\Users\tilak\Desktop\CSharp\returnType\obj\Debug\net8.0\returnType.genruntimeconfig.cache
+C:\Users\tilak\Desktop\CSharp\returnType\obj\Debug\net8.0\ref\returnType.dll

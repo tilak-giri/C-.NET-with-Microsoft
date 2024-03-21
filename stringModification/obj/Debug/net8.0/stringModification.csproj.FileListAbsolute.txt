@@ -1,0 +1,14 @@
+C:\Users\tilak\Desktop\CSharp\stringModification\bin\Debug\net8.0\stringModification.exe
+C:\Users\tilak\Desktop\CSharp\stringModification\bin\Debug\net8.0\stringModification.deps.json
+C:\Users\tilak\Desktop\CSharp\stringModification\bin\Debug\net8.0\stringModification.runtimeconfig.json
+C:\Users\tilak\Desktop\CSharp\stringModification\bin\Debug\net8.0\stringModification.dll
+C:\Users\tilak\Desktop\CSharp\stringModification\bin\Debug\net8.0\stringModification.pdb
+C:\Users\tilak\Desktop\CSharp\stringModification\obj\Debug\net8.0\stringModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\CSharp\stringModification\obj\Debug\net8.0\stringModification.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\CSharp\stringModification\obj\Debug\net8.0\stringModification.AssemblyInfo.cs
+C:\Users\tilak\Desktop\CSharp\stringModification\obj\Debug\net8.0\stringModification.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\CSharp\stringModification\obj\Debug\net8.0\stringModification.dll
+C:\Users\tilak\Desktop\CSharp\stringModification\obj\Debug\net8.0\refint\stringModification.dll
+C:\Users\tilak\Desktop\CSharp\stringModification\obj\Debug\net8.0\stringModification.pdb
+C:\Users\tilak\Desktop\CSharp\stringModification\obj\Debug\net8.0\stringModification.genruntimeconfig.cache
+C:\Users\tilak\Desktop\CSharp\stringModification\obj\Debug\net8.0\ref\stringModification.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1hZbWs93A+IrIE58zEfD5H70peIvfBj7oCQrG6YLXFFfw5mcY800C4l83cD0cxJ7el9de5uQ667ASisdHqP7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tilak\\Desktop\\CSharp\\Challenge-Project-variable-data-in-CSharp-main\\Challenge-Project-variable-data-in-CSharp-main\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
