@@ -1,0 +1,15 @@
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\obj\Debug\net8.0\methodGuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\obj\Debug\net8.0\methodGuidedProject.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\obj\Debug\net8.0\methodGuidedProject.AssemblyInfo.cs
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\obj\Debug\net8.0\methodGuidedProject.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\obj\Debug\net8.0\methodGuidedProject.sourcelink.json
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\bin\Debug\net8.0\methodGuidedProject.exe
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\bin\Debug\net8.0\methodGuidedProject.deps.json
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\bin\Debug\net8.0\methodGuidedProject.runtimeconfig.json
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\bin\Debug\net8.0\methodGuidedProject.dll
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\bin\Debug\net8.0\methodGuidedProject.pdb
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\obj\Debug\net8.0\methodGuidedProject.dll
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\obj\Debug\net8.0\refint\methodGuidedProject.dll
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\obj\Debug\net8.0\methodGuidedProject.pdb
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\obj\Debug\net8.0\methodGuidedProject.genruntimeconfig.cache
+C:\Users\tilak\Desktop\CSharp\methodGuidedProject\obj\Debug\net8.0\ref\methodGuidedProject.dll
