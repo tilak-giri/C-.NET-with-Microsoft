@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/QEoYLwYOQNn1bw5tljZNkni7q49qmPyqfDSdZABEBrhZ7U5HJ2uLseV/HZneTc2idridWO2P1D+sgvDULqYCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tilak\\Desktop\\CSharp\\Challenge-project-Create-methods-in-CSharp-main\\Challenge-project-Create-methods-in-CSharp-main\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\tilak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
