@@ -1,0 +1,15 @@
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\bin\Debug\net8.0\exceptionHandling.exe
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\bin\Debug\net8.0\exceptionHandling.deps.json
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\bin\Debug\net8.0\exceptionHandling.runtimeconfig.json
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\bin\Debug\net8.0\exceptionHandling.dll
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\bin\Debug\net8.0\exceptionHandling.pdb
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.AssemblyInfoInputs.cache
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.AssemblyInfo.cs
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.csproj.CoreCompileInputs.cache
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.sourcelink.json
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.dll
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\obj\Debug\net8.0\refint\exceptionHandling.dll
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.pdb
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\obj\Debug\net8.0\exceptionHandling.genruntimeconfig.cache
+c:\Users\tilak\Desktop\CSharp\exceptionHandling\obj\Debug\net8.0\ref\exceptionHandling.dll

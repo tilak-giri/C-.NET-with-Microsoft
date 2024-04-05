@@ -1,0 +1,15 @@
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\bin\Debug\net8.0\createAndThrowException.exe
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\bin\Debug\net8.0\createAndThrowException.deps.json
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\bin\Debug\net8.0\createAndThrowException.runtimeconfig.json
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\bin\Debug\net8.0\createAndThrowException.dll
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\bin\Debug\net8.0\createAndThrowException.pdb
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\obj\Debug\net8.0\createAndThrowException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\obj\Debug\net8.0\createAndThrowException.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\obj\Debug\net8.0\createAndThrowException.AssemblyInfo.cs
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\obj\Debug\net8.0\createAndThrowException.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\obj\Debug\net8.0\createAndThrowException.sourcelink.json
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\obj\Debug\net8.0\createAndThrowException.dll
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\obj\Debug\net8.0\refint\createAndThrowException.dll
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\obj\Debug\net8.0\createAndThrowException.pdb
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\obj\Debug\net8.0\createAndThrowException.genruntimeconfig.cache
+C:\Users\tilak\Desktop\CSharp\createAndThrowException\obj\Debug\net8.0\ref\createAndThrowException.dll

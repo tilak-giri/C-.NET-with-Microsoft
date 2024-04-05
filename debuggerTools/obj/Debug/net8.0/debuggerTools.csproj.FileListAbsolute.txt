@@ -1,0 +1,15 @@
+C:\Users\tilak\Desktop\CSharp\debuggerTools\bin\Debug\net8.0\debuggerTools.exe
+C:\Users\tilak\Desktop\CSharp\debuggerTools\bin\Debug\net8.0\debuggerTools.deps.json
+C:\Users\tilak\Desktop\CSharp\debuggerTools\bin\Debug\net8.0\debuggerTools.runtimeconfig.json
+C:\Users\tilak\Desktop\CSharp\debuggerTools\bin\Debug\net8.0\debuggerTools.dll
+C:\Users\tilak\Desktop\CSharp\debuggerTools\bin\Debug\net8.0\debuggerTools.pdb
+C:\Users\tilak\Desktop\CSharp\debuggerTools\obj\Debug\net8.0\debuggerTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\CSharp\debuggerTools\obj\Debug\net8.0\debuggerTools.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\CSharp\debuggerTools\obj\Debug\net8.0\debuggerTools.AssemblyInfo.cs
+C:\Users\tilak\Desktop\CSharp\debuggerTools\obj\Debug\net8.0\debuggerTools.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\CSharp\debuggerTools\obj\Debug\net8.0\debuggerTools.sourcelink.json
+C:\Users\tilak\Desktop\CSharp\debuggerTools\obj\Debug\net8.0\debuggerTools.dll
+C:\Users\tilak\Desktop\CSharp\debuggerTools\obj\Debug\net8.0\refint\debuggerTools.dll
+C:\Users\tilak\Desktop\CSharp\debuggerTools\obj\Debug\net8.0\debuggerTools.pdb
+C:\Users\tilak\Desktop\CSharp\debuggerTools\obj\Debug\net8.0\debuggerTools.genruntimeconfig.cache
+C:\Users\tilak\Desktop\CSharp\debuggerTools\obj\Debug\net8.0\ref\debuggerTools.dll
