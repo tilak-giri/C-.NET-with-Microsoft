@@ -1,0 +1,15 @@
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+c:\Users\tilak\Desktop\CSharp\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
