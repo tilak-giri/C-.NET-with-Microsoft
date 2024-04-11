@@ -1,0 +1,15 @@
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\bin\Debug\net8.0\palindromeProject.exe
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\bin\Debug\net8.0\palindromeProject.deps.json
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\bin\Debug\net8.0\palindromeProject.runtimeconfig.json
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\bin\Debug\net8.0\palindromeProject.dll
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\bin\Debug\net8.0\palindromeProject.pdb
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\obj\Debug\net8.0\palindromeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\obj\Debug\net8.0\palindromeProject.AssemblyInfoInputs.cache
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\obj\Debug\net8.0\palindromeProject.AssemblyInfo.cs
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\obj\Debug\net8.0\palindromeProject.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\obj\Debug\net8.0\palindromeProject.sourcelink.json
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\obj\Debug\net8.0\palindromeProject.dll
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\obj\Debug\net8.0\refint\palindromeProject.dll
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\obj\Debug\net8.0\palindromeProject.pdb
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\obj\Debug\net8.0\palindromeProject.genruntimeconfig.cache
+C:\Users\tilak\Desktop\CSharp\PracticeMakesAManPerfect\palindromeProject\obj\Debug\net8.0\ref\palindromeProject.dll
